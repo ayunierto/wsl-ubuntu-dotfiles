@@ -1,0 +1,15 @@
+# Files
+alias ll='lsd -la'
+alias l='ls -CF'
+
+# Git
+alias gs='git status'
+alias ga='git add .'
+alias gc='git commit -m'
+alias gp='git push'
+
+# Dev
+alias dev='npm run dev'
+
+# System
+alias reload='source ~/.zshrc'
