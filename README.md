@@ -77,8 +77,6 @@ Scripts are safe to run multiple times.
 - Config files are backed up if needed
 - No duplicate installations
 
-
-
 ---
 
 ## Instalación rápida (bootstrap)
@@ -94,3 +92,7 @@ cd ~/.dotfiles
 chmod +x install.sh
 ./install.sh
 ```
+
+## Otras instalaciones
+1. [Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
+2. [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/do-more-with-tunnels/local-management/create-local-tunnel/#1-download-and-install-cloudflared). [Post install](https://docs.docker.com/engine/install/linux-postinstall)
